@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleRSS</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="text1">RANDOM NEWS</string>
+    <string name="text2">DESCRIPTION</string>
+    <string name="text3">text3</string>
+    <string name="hello">HELLO APP WIDGET EXAMPLE</string>
+</resources>
